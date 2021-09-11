@@ -16,7 +16,7 @@ using System.Net;
 
 namespace Nort
 {
-    // if you decompiled that, you are a very big gay
+    // rxvyonline was here
     public partial class Form1 : Form
     {
 
